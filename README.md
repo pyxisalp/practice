@@ -1,4 +1,3 @@
-## practice
 # practices for algorithms
 reference: https://www.acmicpc.net/step
 
