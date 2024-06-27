@@ -1,5 +1,5 @@
-# practices for algorithms
+# Practices for Algorithms
 reference: https://www.acmicpc.net/step
 
-# note
+# Note
 10816: lower/upper bound for the binary search
