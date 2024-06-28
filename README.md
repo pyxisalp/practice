@@ -1,5 +1,6 @@
 # Practices for Algorithms
-reference: https://www.acmicpc.net/step
+reference: https://www.acmicpc.net/step</br>
+etc: https://www.acmicpc.net/workbook/view/8708
 
 # Note
 ## Binary Search
