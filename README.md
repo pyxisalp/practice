@@ -6,3 +6,4 @@ etc: https://www.acmicpc.net/workbook/view/8708
 ## Binary Search
 10816: lower/upper bound for the binary search</br>
 1654: parametric search
+12015: LIS
