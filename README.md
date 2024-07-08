@@ -9,3 +9,5 @@ etc: https://www.acmicpc.net/workbook/view/8708
 10816: lower/upper bound for the binary search</br>
 1654: parametric search</br>
 12015: LIS
+## Graph Theory
+1520: # of paths that satisfy the condition
