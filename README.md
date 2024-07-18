@@ -1,6 +1,7 @@
 # Practices for Algorithms
-reference: https://www.acmicpc.net/step</br>
-etc: https://www.acmicpc.net/workbook/view/8708
+## reference 
+https://www.acmicpc.net/step</br>
+https://www.acmicpc.net/workbook/view/8708</br>
 
 # Note
 ## Data Structures
