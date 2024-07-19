@@ -16,7 +16,8 @@ https://www.acmicpc.net/workbook/view/8708</br>
 10816: lower/upper bound for the binary search</br>
 12015: LIS</br>
 ## Graph Theory
-1707: bipartite graph</br>
-2178: Point class</br>
+- 1167: diameter of the tree
+- 1707: bipartite graph
+- 2178: Point class
 ## Union-Find
 4195: size of the disjoint set</br>
