@@ -5,9 +5,10 @@ https://www.acmicpc.net/workbook/view/8708</br>
 
 # Note
 ## Data Structures
-11286: heap using Comparator</br>
-11725: tree</br>
-28279: deque</br>
+- 1991: tree traversal
+- 11286: heap using Comparator
+- 11725: tree
+- 28279: deque
 ## Dynamic Programming
 1520: # of paths that satisfy the condition</br>
 ### 11066: Merging files</br>
