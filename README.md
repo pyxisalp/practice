@@ -6,6 +6,7 @@ https://www.acmicpc.net/workbook/view/8708</br>
 # Note
 ## Data Structures
 - 1991: tree traversal
+- 5639: insertion of the binary search tree
 - 11286: heap using Comparator
 - 11725: tree
 - 28279: deque
