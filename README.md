@@ -16,12 +16,11 @@ https://www.acmicpc.net/workbook/view/8708</br>
 - 1520: # of paths that satisfy the condition</br>
 - ### 11066: Merging files</br>
 ## Binary Search
-1654: parametric search</br>
-10816: lower/upper bound for the binary search</br>
-12015: LIS</br>
+- 1654: parametric search</br>
+- 10816: lower/upper bound</br>
+- 12015: LIS using a binary search</br>
 ## Graph Theory
-- 1167: diameter of the tree
+- 1167: diameter of a tree
 - 1707: bipartite graph
-- 2178: Point class
 ## Union-Find
-4195: size of the disjoint set</br>
+- 4195: size of a disjoint set</br>
