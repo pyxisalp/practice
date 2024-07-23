@@ -1,5 +1,5 @@
 # Practices for Algorithms
-## Reference 
+## References
 https://www.acmicpc.net/step</br>
 https://www.acmicpc.net/workbook/view/8708</br>
 
