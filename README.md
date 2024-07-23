@@ -5,15 +5,16 @@ https://www.acmicpc.net/workbook/view/8708</br>
 
 # Note
 ## Data Structures
+- 1197: minimum spanning tree(Kruskal algorithm)
 - 1991: tree traversal
 - 4803: # of trees
-- 5639: insertion of the binary search tree
+- 5639: insertion in a binary search tree
 - 11286: heap using Comparator
 - 11725: tree
 - 28279: deque
 ## Dynamic Programming
-1520: # of paths that satisfy the condition</br>
-### 11066: Merging files</br>
+- 1520: # of paths that satisfy the condition</br>
+- ### 11066: Merging files</br>
 ## Binary Search
 1654: parametric search</br>
 10816: lower/upper bound for the binary search</br>
